@@ -1,0 +1,29 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "Akilar",
+      "url": "https://akilar.top",
+      "avatar": "https://npm.elemecdn.com/akilar-candyassets/image/siteicon/favicon.png",
+      "description": "欢迎光临糖果屋"
+    },
+    {
+      "title": "陈鑫磊'Blog",
+      "url": "https://www.cxl2020mc.top",
+      "avatar": "https://www.cxl2020mc.top/img/avatar.png",
+      "description": "这个人太懒了啥也没写......"
+    },
+    {
+      "title": "Zkeq の Coding 日志",
+      "url": "https://icodeq.com",
+      "avatar": "https://img.onmicrosoft.cn/Avatar.jpg",
+      "description": "自强，弘毅，求实"
+    },
+    {
+      "title": "Leonus",
+      "url": "https://blog.leonus.cn/",
+      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=553344777&s=5",
+      "description": "进一寸有进一寸的欢喜"
+    }
+  ]
+}
